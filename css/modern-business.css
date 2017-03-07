@@ -42,9 +42,16 @@ img{
 
 */
 
+/*MY OWN EDIT*/
 
-
-
+#myCarousel{
+	
+	
+	position: center;
+	background-position: center;
+	margin: 0 auto;
+}
+/*MY OWN EDIT*/
 		
 
 .img-portfolio {
@@ -58,18 +65,26 @@ img{
 .img-full {
     min-width: 100%;
 	min-height: 100%;
+	
 }
 
 /* Home Page Carousel */
 
+/*This is the carousel box*/
 header.carousel {
-    height: 50%;
+    
+	width: 80%;
+	
+	
 }
 
+/*This is for the image*/
 header.carousel .item,
 header.carousel .item.active,
 header.carousel .carousel-inner {
     height: 100%;
+	width: 100%;
+	
 }
 
 header.carousel .fill {
