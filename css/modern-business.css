@@ -9,6 +9,23 @@
 html,
 body {
     height: 100%;
+	/*background-image: url(../img/logo_x_pattern.png);
+	background-image: url(../img/hexellence.png);
+	
+	background-image: url(../img/gplaypattern.png);
+	*/
+	
+	
+
+	background-image: url(../img/gplaypattern.png);
+	background-repeat: repeat;
+	
+	
+	
+	
+
+	
+	
 }
 
 body {
@@ -73,7 +90,7 @@ img{
 /*This is the carousel box*/
 header.carousel {
     
-	width: 80%;
+	width: 50%;
 	
 	
 }
