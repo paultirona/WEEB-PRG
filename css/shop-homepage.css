@@ -10,6 +10,13 @@ body {
 	background-repeat: repeat;
 }
 
+nav{
+	
+	background-image: url(../img/ep_naturalblack.png);
+	background-repeat: repeat;
+
+}
+
 .slide-image {
     width: 100%;
 }
